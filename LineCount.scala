@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 /*This is a Demo code used for line counts in a given document
 */
 
+=======
+>>>>>>> parent of 28b7e31... Added comments to LineCount.scala code
 
 package a_z.in.hadoop.Maven_Example1
 
