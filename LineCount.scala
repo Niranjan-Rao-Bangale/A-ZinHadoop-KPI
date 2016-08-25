@@ -1,3 +1,5 @@
+/*This is a Demo code used for line counts in a given document*/
+
 
 package a_z.in.hadoop.Maven_Example1
 
