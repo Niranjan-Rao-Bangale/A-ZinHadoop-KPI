@@ -1,7 +1,5 @@
 /*This is a Demo code used for line counts in a given document
 */
-package a_z.in.hadoop.Maven_Example1
-
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 object Line_Count{
